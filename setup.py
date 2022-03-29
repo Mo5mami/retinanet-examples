@@ -26,7 +26,6 @@ setup(
         'torch>=1.0.0a0',
         'torchvision',
         'apex @ git+https://github.com/NVIDIA/apex',
-        'pycocotools @ git+https://github.com/nvidia/cocoapi.git#subdirectory=PythonAPI',
         'pillow',
         'requests',
     ],
